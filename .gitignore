@@ -1,0 +1,15 @@
+# Dependency directories
+node_modules/
+.pnpm/
+.pnpm-lock.yaml
+pnpm-lock.yaml
+yarn-error.log
+yarn.lock
+
+# Output directory
+dist/
+
+# Cache directories
+.cache/
+.pnpm-store/
+pnpm-lock.yaml
